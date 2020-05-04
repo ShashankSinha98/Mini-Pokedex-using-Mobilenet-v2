@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "152145894498",
+    "firebase_url": "https://mini-pokedex.firebaseio.com",
+    "project_id": "mini-pokedex",
+    "storage_bucket": "mini-pokedex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152145894498:android:a337ee03d0937b9220453b",
+        "android_client_info": {
+          "package_name": "com.example.minipokedex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152145894498-ncdpgif8babjk7g80u8hb1m1ajtf8rd1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.minipokedex",
+            "certificate_hash": "43c651dc72d37742ea67aa7a2428d1e329eaac3e"
+          }
+        },
+        {
+          "client_id": "152145894498-rpd061l4efsr1urchd8psdnqs8c7q8ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqOMRcCUKqWGulPIYABPo2vATqmpomkIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152145894498-rpd061l4efsr1urchd8psdnqs8c7q8ng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
